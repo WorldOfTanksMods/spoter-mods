@@ -25,7 +25,7 @@ class Config(object):
         self.enable = True
         self.debug = False
         self.ru = True if 'RU' in AUTH_REALM else False
-        self.version = 'v3.08(11.09.2015)'
+        self.version = 'v3.08(18.11.2015)'
         self.author = 'by spoter'
         self.description = 'spotted_extended_light'
         self.description_ru = 'Мод: "Маленький Светлячок"'
